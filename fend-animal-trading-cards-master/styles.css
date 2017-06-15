@@ -1,0 +1,24 @@
+.container {
+	box-shadow: 6px 6px #E9E9E9;
+	width: 300px;
+	padding: 20px 20px 5px;
+}
+.container,
+.container img,
+.description {
+	border: 1px solid #D4D4D4;
+}
+.description {
+	margin: 15px 0px;
+	padding: 0px 15px;
+}
+.fact {
+	font-style: italic;
+}
+.animal-list {
+	padding-left: 0;
+	list-style: none;
+}
+.animal-list li span {
+	font-weight: 700;
+}
